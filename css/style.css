@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 /* common ui */
 .button{
   font-size: 16px;
@@ -158,7 +159,7 @@ section{
   display: flex;
   align-items: center;
   justify-content: center;
-  background: white;
+  background: red;
   /* background: gray; */
   min-height: 100vh;
   box-sizing: border-box;
